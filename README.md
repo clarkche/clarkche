@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daheng (Clark) Chen
 - 🌱 I’m currently learning Computer Science @ USC - University of Southern California
-- 👀 I’m interested in brewing coffee, learning new stuff, and gaming
+- 👀 I’m interested in brewing coffee, reading, and gaming
 - 📫 Email: clarkche@usc.edu
 - 📸 Instagram: clarker_21
 
