@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daheng (Clark) Chen
-- 🌱 I’m currently learning Computer Science @ USC - University of Southern California
-- 📫 Email: clarkche@usc.edu
+- 🌱 I hold Bachelor of Science Degree in Computer Science, USC - University of Southern California
+- 📫 Email: clarkche@pm.me
 - 📸 Instagram: clarker_21
 
 
